@@ -1,10 +1,14 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
+# In[3]:
 
 
-print("I'm Hungry")
+abcd = input("you like biryani")
+if abcd == "yes":
+    print("meghanas")
+else:
+    print("have roti/curry")
 
 
 # In[ ]:
